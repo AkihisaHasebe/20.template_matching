@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src</folder>
+	<filename>lize_00811_0.png</filename>
+	<path>D:\workspace\20.template_matching\src\lize_00811_0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>556</width>
+		<height>556</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>liver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>295</ymin>
+			<xmax>234</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>
